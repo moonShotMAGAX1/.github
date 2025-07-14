@@ -113,4 +113,4 @@ This repository is open-sourced under the MIT license.
 
 **Join us in building the first truly decentralized meme economy.**
 
-🌐 [Website](https://dev.moonshotmagax.com) • 🧾 [Whitepaper](https://magax-dev-public-bucket.s3.us-east-1.amazonaws.com/MoonShot+MAGAX+Whitepaper+Final+Version+3.5.docx+(1).pdf)
+🌐 [Website](https://dev.moonshotmagax.com) • 🧾 [Whitepaper](https://magax-dev-public-bucket.s3.us-east-1.amazonaws.com/White+paper.pdf)
